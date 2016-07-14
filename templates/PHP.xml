@@ -1,0 +1,7 @@
+<templateSet group="PHP">
+  <template name="func" value="function name($arg) {&#10;&#10;}" description="New Function" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="PHP" value="true" />
+    </context>
+  </template>
+</templateSet>
