@@ -1,8 +1,8 @@
 <application>
   <component name="WebServers">
     <option name="servers">
-      <webServer id="da405cc1-e52a-436b-91c8-43ebfbffa6b7" name="Alfresco" url="http://www.alfresco.dev">
-        <fileTransfer accessType="LOCAL" />
+      <webServer id="da405cc1-e52a-436b-91c8-43ebfbffa6b7" name="Alfresco" url="https://www.alfresco.dev">
+        <fileTransfer port="0" accessType="LOCAL" />
       </webServer>
       <webServer id="edff9385-1abf-46e2-8957-e08dad904316" name="CNN D8" url="http://cnn.dev">
         <fileTransfer accessType="LOCAL" />
