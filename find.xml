@@ -9,10 +9,10 @@
       <mask>*.as</mask>
       <mask>*.css</mask>
       <mask>*.mxml</mask>
-      <mask>*.php</mask>
       <mask>*.js</mask>
       <mask>*.scss</mask>
       <mask>*.info</mask>
+      <mask>*.php</mask>
     </recentFileMasks>
   </component>
 </application>
