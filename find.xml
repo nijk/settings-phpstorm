@@ -13,6 +13,8 @@
       <mask>*.scss</mask>
       <mask>*.info</mask>
       <mask>*.php</mask>
+      <mask>*.module</mask>
+      <mask>*.inc</mask>
     </recentFileMasks>
   </component>
 </application>
