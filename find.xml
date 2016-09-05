@@ -1,6 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="FILE_MASK" value="*.info" />
+    <option name="regularExpressions" value="true" />
+    <option name="REGULAR_EXPRESSIONS" value="true" />
+    <option name="FILE_MASK" value="*.module,*.inc" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.html</mask>
@@ -20,8 +22,9 @@
       <mask>!*.tpl.php&amp;&amp;!*.js</mask>
       <mask>!*.tpl.php,!*.js</mask>
       <mask>*.inc</mask>
-      <mask>*.php,*.module*.inc</mask>
       <mask>*.info</mask>
+      <mask>*.php,*.module*.inc</mask>
+      <mask>*.module,*.inc</mask>
     </recentFileMasks>
   </component>
 </application>
